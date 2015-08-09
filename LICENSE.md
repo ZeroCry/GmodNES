@@ -1,4 +1,5 @@
 Copyright (c) 2015, Romian "Leystryku" Transtru
+
 Copyright (c) 2015, Constantine "NanoCat" Shablya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
